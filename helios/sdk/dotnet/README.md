@@ -1,0 +1,2 @@
+NB: The .NET library for the Helios DAC is currently in beta. It should in theory work on all platforms supporting Libusb, but it has only been tested on Win64 on .NET 6.0
+If you experience problem, it is also possible to use the C++ library and call the dll from C# using interop.
